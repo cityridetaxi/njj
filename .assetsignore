@@ -1,0 +1,12 @@
+node_modules
+.git
+.github
+.env
+.env.*
+apks
+package.json
+package-lock.json
+tailwind.config.js
+wrangler.jsonc
+wrangler.json
+README.md
