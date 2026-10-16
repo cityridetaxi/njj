@@ -1,4 +1,19 @@
+# https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Allow: /
+Allow: /assets/
+Allow: /*.png$
+Allow: /*.ico$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.svg$
+Allow: /*.webp$
+Allow: /*.js$
+Allow: /*.css$
+Allow: /site.webmanifest$
 
+# Host
+Host: https://njjtechnologies.in
+
+# Sitemaps
 Sitemap: https://njjtechnologies.in/sitemap.xml

@@ -104,7 +104,7 @@
     /* --- Typewriter --- */
     const taglines = [
       "Technology That Moves Businesses Forward.",
-      "Enterprise Mobility Infrastructure.",
+      "Mobility Infrastructure Platform.",
       "White-Label. Real-Time. Scalable.",
     ];
     const typingEl = document.getElementById("introTyping");
@@ -1126,7 +1126,7 @@
           <div style="text-align:center;padding:24px 0;display:flex;flex-direction:column;align-items:center;gap:16px;">
             <div style="width:52px;height:52px;border-radius:50%;background:var(--ok-soft);color:var(--ok);display:grid;place-items:center;font-size:24px;">✓</div>
             <h3 style="font-size:1.4rem;letter-spacing:-0.02em;">Demo Walkthrough Requested</h3>
-            <p style="color:var(--fg-2);font-size:0.9375rem;max-width:44ch;line-height:1.5;">Our enterprise mobility specialists will contact you within 2 business hours to schedule an architecture and white-label platform walkthrough.</p>
+            <p style="color:var(--fg-2);font-size:0.9375rem;max-width:44ch;line-height:1.5;">Our mobility specialists will contact you within 2 business hours to schedule an architecture and white-label platform walkthrough.</p>
             <button type="button" class="btn btn-secondary btn-sm" data-close-modal style="margin-top:8px;">Close Window</button>
           </div>
         `;

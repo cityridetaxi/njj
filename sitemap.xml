@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://njjtechnologies.in/</loc>
-    <lastmod>2026-10-08</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://njjtechnologies.in/njj%20logo.png</image:loc>
+      <image:title>NJJ Technologies Logo - CityRideTaxi Platform</image:title>
+      <image:caption>NJJ Technologies - Premier Mobility Software Engineering Company</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://njjtechnologies.in/alltr%20driver.jpeg</image:loc>
+      <image:title>ALLTRACK TAXi Driver App Release</image:title>
+      <image:caption>ALLTRACK TAXi Authorized Network Android APK</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://njjtechnologies.in/n/</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://njjtechnologies.in/njj%20logo.png</image:loc>
+      <image:title>NJJ Technologies Logo</image:title>
+    </image:image>
   </url>
 </urlset>
