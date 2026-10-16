@@ -10,3 +10,4 @@ tailwind.config.js
 wrangler.jsonc
 wrangler.json
 README.md
+.vscode
