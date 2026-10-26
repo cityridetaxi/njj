@@ -1,0 +1,5 @@
+# Redirect duplicate and legacy alternate paths to canonical root
+/index.html    /    301
+/n             /    301
+/n/            /    301
+/n/*           /    301
